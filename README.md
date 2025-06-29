@@ -1,7 +1,7 @@
 # 🎨 Muse-AI-um
 
 **AI-Powered Creative Expression for Neurodivergent Children**
-*Your imagination, curated with care*
+>*Your imagination, curated with care*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![React](https://img.shields.io/badge/React-18.3.1-blue.svg)](https://reactjs.org/)
