@@ -13,6 +13,9 @@
 Muse-AI-um is a therapeutic, AI-powered creative platform designed specifically for neurodivergent children. Built with input from special education experts, it provides a safe, judgment-free space where children can express themselves through art, storytelling, and sensory experiences while being guided by Mimi, their compassionate AI companion.
 
 **Our Core Belief**: AI doesn't replace imagination—it nurtures it. Like a gentle gardener tending to unique flowers, Mimi provides just the right amount of encouragement, tools, and space for each child's creativity to bloom naturally.
+## ✨ Homepage Preview
+
+![Mimi Homepage](assets/screenshots/home-page.png)
 
 ##  The Museum Philosophy
 
