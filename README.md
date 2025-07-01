@@ -17,6 +17,10 @@ Muse-AI-um is a therapeutic, AI-powered creative platform designed specifically 
 
 ![Mimi Homepage](assets/screenshots/home-page.png)
 
+## ✨ Guardian Secure Portal
+![image](https://github.com/user-attachments/assets/2d498e55-0767-478a-bf65-1eeaf8669eeb)
+
+
 ##  The Museum Philosophy
 
 ### **Why a Museum?**
